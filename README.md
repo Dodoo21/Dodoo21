@@ -6,7 +6,7 @@
 -->
 
 ### 💫 About Me:
-Hello! iam Dodo Septyo Hadi<br><br>I am a fresh graduate and focus on web development and also android application. Experienced to be part of Student In SMK Negeri 2 Kota Mojokerto. if you need help, contact me!<br><br>Web Developer
+Hello! IAm Dodo Septyo Hadi<br><br>I am a fresh graduate and focus on web development and also android application. Experienced to be part of Student In SMK Negeri 2 Kota Mojokerto. if you need help, contact me!<br><br>Web Developer
 
 
 ### 🌐 Socials:
