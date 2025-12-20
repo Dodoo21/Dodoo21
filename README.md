@@ -28,12 +28,13 @@
 
 ###
 
-<picture width="600">
+<picture width="900">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DodoSeptyoHadi/DodoSeptyoHadi/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DodoSeptyoHadi/DodoSeptyoHadi/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DodoSeptyoHadi/DodoSeptyoHadi/output/pacman-contribution-graph.svg">
 </picture>
-
+<br>
+<img src="https://raw.githubusercontent.com/DodoSeptyoHadi/DodoSeptyoHadi/output/snake.svg" alt="Snake animation" />
 
 ###
 
