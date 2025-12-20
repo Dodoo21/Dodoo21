@@ -33,3 +33,6 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DodoSeptyoHadi.Napid23&left_color=darkslateblue"  />
 </div>
+
+🎶 **Now Playing:**  
+[Noah – Separuh Aku](https://open.spotify.com/track/4sJmv194lQKWjytpaxH1Vj?si=L79JJ94aRHet50hZCdmWmQ)
