@@ -28,7 +28,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DodoSeptyoHadi/DodoSeptyoHadi/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DodoSeptyoHadi/DodoSeptyoHadi/output/snake.Svg" alt="Snake animation" />
+
 
 ###
 
