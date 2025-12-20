@@ -1,13 +1,12 @@
-
-![Header](https://i.ibb.co.com/jvGfbhXd/Chat-GPT-Image-20-Des-2025-10-07-23-removebg-preview.png)
+<p align="center">
+  <img src="https://i.ibb.co.com/jvGfbhXd/Chat-GPT-Image-20-Des-2025-10-07-23-removebg-preview.png)" alt="Dodo Septyo Hadi Header" width="600" />
+</p>
 <!--
 **DodoSeptyoHadi/DodoSeptyoHadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
 ### 💫 About Me:
 Hello! iam Dodo Septyo Hadi<br>
-
-<p>siswa aktif SMK Negeri 2 Kota Mojokerto jurusan Rekayasa Perangkat Lunak (RPL).<br><br>Saya memiliki minat dan passion yang besar di dunia coding, khususnya dalam mempelajari bahasa pemrograman dan logika pemrograman. Melalui pendidikan ini, saya berkomitmen untuk terus mengembangkan kemampuan, memperdalam pemahaman teknologi, dan membangun fondasi yang kuat demi mencapai visi jangka panjang sebagai Web Developer yang handal, kreatif, dan profesional. Experienced to be part of Student In SMK Negeri 2 Kota Mojokerto. if you need help, contact me!<br><br>Web Developer<p></p>
+<p>Siswa aktif SMK Negeri 2 Kota Mojokerto Jurusan Rekayasa Perangkat Lunak (RPL).<br><br>Saya memiliki minat dan passion yang besar di dunia coding, khususnya dalam mempelajari bahasa pemrograman dan logika pemrograman. Melalui pendidikan ini, saya berkomitmen untuk terus mengembangkan kemampuan, memperdalam pemahaman teknologi, dan membangun fondasi yang kuat demi mencapai visi jangka panjang sebagai Web Developer yang handal, kreatif, dan profesional. Experienced to be part of Student In SMK Negeri 2 Kota Mojokerto. Jika butuh bantuan hubungi aku!<br><br>Web Developer<p></p>
 
 
 ### 🌐 Socials:
