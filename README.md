@@ -6,7 +6,8 @@
 -->
 
 ### 💫 About Me:
-<b>Hello! iam Dodo Septyo Hadi<b>siswa aktif SMK Negeri 2 Kota Mojokerto jurusan Rekayasa Perangkat Lunak (RPL).<br><br>Saya memiliki minat dan passion yang besar di dunia coding, khususnya dalam mempelajari bahasa pemrograman dan logika pemrograman. Melalui pendidikan ini, saya berkomitmen untuk terus mengembangkan kemampuan, memperdalam pemahaman teknologi, dan membangun fondasi yang kuat demi mencapai visi jangka panjang sebagai Web Developer yang handal, kreatif, dan profesional. Experienced to be part of Student In SMK Negeri 2 Kota Mojokerto. if you need help, contact me!<br><br>Web Developer
+<b>Hello! iam Dodo Septyo Hadi<b><br>
+siswa aktif SMK Negeri 2 Kota Mojokerto jurusan Rekayasa Perangkat Lunak (RPL).<br><br>Saya memiliki minat dan passion yang besar di dunia coding, khususnya dalam mempelajari bahasa pemrograman dan logika pemrograman. Melalui pendidikan ini, saya berkomitmen untuk terus mengembangkan kemampuan, memperdalam pemahaman teknologi, dan membangun fondasi yang kuat demi mencapai visi jangka panjang sebagai Web Developer yang handal, kreatif, dan profesional. Experienced to be part of Student In SMK Negeri 2 Kota Mojokerto. if you need help, contact me!<br><br>Web Developer
 
 
 ### 🌐 Socials:
