@@ -54,6 +54,7 @@ dan menunjukkan kontribusi saya di dunia teknologi.
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DodoSeptyoHadi&left_color=darkslateblue" />
 </div>
+<br>
 
 🎶 **Now Playing:**  
 [NOAH – Separuh Aku](https://open.spotify.com/track/4sJmv194lQKWjytpaxH1Vj)
