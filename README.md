@@ -1,23 +1,26 @@
 <p align="left">
-  <img src="https://i.ibb.co.com/tw8XTmTJ/Screenshot-2025-12-20-164244-removebg-preview.png" alt="Dodo Septyo Hadi Header" width="420" />
+  <img src="https://i.ibb.co.com/tw8XTmTJ/Screenshot-2025-12-20-164244-removebg-preview.png" 
+       alt="Dodo Septyo Hadi Header" 
+       width="420" />
 </p>
 
-### 💫 Tentang Aku
+## 💫 About Me
 <b>Haii 👋 | Aku Dodo Septyo Hadi</b>
 
 <p>
-Aku adalah siswa aktif SMK Negeri 2 Kota Mojokerto jurusan Rekayasa Perangkat Lunak (RPL).
+Aku adalah siswa aktif <b>SMK Negeri 2 Kota Mojokerto</b> jurusan 
+<b>Rekayasa Perangkat Lunak (RPL)</b>.
 <br><br>
-Saya percaya motto <b>belajar tanpa akhir</b> pasti akan membuahkan hasil yang baik.
-Selamat datang di profil GitHub aku, di sinilah awal saya belajar dunia pemrograman
-dan menunjukkan kontribusi saya di dunia teknologi.
+Aku percaya motto <b>belajar tanpa akhir</b> akan selalu membuahkan hasil yang baik.
+GitHub ini menjadi tempat aku belajar dunia pemrograman, membangun proyek,
+serta menunjukkan perkembangan dan kontribusiku di bidang teknologi.
 <br><br>
-<b>Junior Front-End Developer | Junior UI/UX Designer</b>
+<b>Junior Front-End Developer • Junior UI/UX Designer</b>
 </p>
 
 ---
 
-### 🌐 Sosial Media
+## 🌐 Social Media
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dodoseptyo.hd)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dodoseptyo.hd)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dodoseptyo.hd)
@@ -25,7 +28,7 @@ dan menunjukkan kontribusi saya di dunia teknologi.
 
 ---
 
-### 💻 Teknologi yang Digunakan
+## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
@@ -36,34 +39,38 @@ dan menunjukkan kontribusi saya di dunia teknologi.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&
-
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=DodoSeptyoHadi&theme=synthwave&hide_border=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=DodoSeptyoHadi&theme=synthwave&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DodoSeptyoHadi&theme=synthwave&layout=compact&hide_border=true)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DodoSeptyoHadi&limit=5&theme=radical_all_yearly_contributions=true)
-
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=DodoSeptyoHadi&limit=5&theme=synthwave&wave_all_yearly_contributions=true)
 
 ---
-<img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" />
 
-<img src="https://raw.githubusercontent.com/DodoSeptyoHadi/DodoSeptyoHadi/output/snake.svg" alt="Snake animation"/>
+<img align="left" height="150" 
+src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" />
+
+<img src="https://raw.githubusercontent.com/DodoSeptyoHadi/DodoSeptyoHadi/output/snake.svg" 
+alt="Snake animation" />
 
 ---
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DodoSeptyoHadi&left_color=darkslateblue" />
 </div>
-<br>
 
 🎶 **Now Playing:**  
 [NOAH – Separuh Aku](https://open.spotify.com/track/4sJmv194lQKWjytpaxH1Vj)
+
