@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://i.ibb.co.com/tw8XTmTJ/Screenshot-2025-12-20-164244-removebg-preview.png" 
+  <img src="" 
        alt="Dodo Septyo Hadi Header" 
        width="420" />
 </p>
