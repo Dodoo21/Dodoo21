@@ -1,9 +1,3 @@
-<p align="left">
-  <img src="" 
-       alt="Dodo Septyo Hadi Header" 
-       width="420" />
-</p>
-
 ## 💫 About Me
 <b>Haii 👋 | Aku Dodo Septyo Hadi</b>
 
