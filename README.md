@@ -34,7 +34,13 @@ dan menunjukkan kontribusi saya di dunia teknologi.
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&
+
 
 ---
 
@@ -44,7 +50,7 @@ dan menunjukkan kontribusi saya di dunia teknologi.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DodoSeptyoHadi&theme=synthwave&layout=compact&hide_border=true)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DodoSeptyoHadi&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=DodoSeptyoHadi&limit=5&theme=radical_all_yearly_contributions=true)
 
 
 ---
