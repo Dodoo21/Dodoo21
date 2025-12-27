@@ -9,7 +9,7 @@ Aku percaya motto <b>belajar tanpa akhir</b> akan selalu membuahkan hasil yang b
 GitHub ini menjadi tempat aku belajar dunia pemrograman, membangun proyek,
 serta menunjukkan perkembangan dan kontribusiku di bidang teknologi.
 <br><br>
-<b>Junior Front-End Developer • Junior UI/UX Designer</b>
+<b>Junior Front-End Developer - Junior UI/UX Designer</b>
 </p>
 
 ---
@@ -33,10 +33,7 @@ serta menunjukkan perkembangan dan kontribusiku di bidang teknologi.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
@@ -49,7 +46,8 @@ serta menunjukkan perkembangan dan kontribusiku di bidang teknologi.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DodoSeptyoHadi&theme=synthwave&layout=compact&hide_border=true)
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DodoSeptyoHadi&limit=5&theme=synthwave&wave_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=DodoSeptyoHadi&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+
 
 ---
 
