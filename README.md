@@ -46,7 +46,7 @@ serta menunjukkan perkembangan dan kontribusiku di bidang teknologi.
 
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DodoSeptyoHadi&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Dodoo21&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
 ---
 
